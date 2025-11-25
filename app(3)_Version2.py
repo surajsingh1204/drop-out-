@@ -2,7 +2,7 @@
 # UmeedRise – Simple, Trustworthy Student Dropout Prediction & Support
 # Designed for schools, teachers, students, and communities with clear language and guided steps.
 # Author: Copilot
-
+pip install streamlit 
 import os
 import io
 import json
